@@ -1,0 +1,15 @@
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\PropertiesAPI.AcceptanceTests.dll.config
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\PropertiesAPI.AcceptanceTests.dll
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\PropertiesAPI.AcceptanceTests.pdb
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\Newtonsoft.Json.dll
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\nunit.framework.dll
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\RestSharp.dll
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\TechTalk.SpecFlow.dll
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\Newtonsoft.Json.xml
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\nunit.framework.xml
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\bin\Debug\RestSharp.xml
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\obj\Debug\WhatsTheNameAPI.AcceptanceTests.csprojAssemblyReference.cache
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\obj\Debug\WhatsTheNameAPI.AcceptanceTests.csproj.CoreCompileInputs.cache
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\obj\Debug\WhatsTheNameAPI.AcceptanceTests.csproj.CopyComplete
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\obj\Debug\PropertiesAPI.AcceptanceTests.dll
+D:\PropertiesAPI\PropertiesAPI\PropertiesAPI.AcceptanceTests\obj\Debug\PropertiesAPI.AcceptanceTests.pdb
