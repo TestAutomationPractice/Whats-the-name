@@ -73,7 +73,7 @@ namespace WhatsTheNameAPI.AcceptanceTests.Helpers
         {
             try
             {
-                _restClient = new RestClient("http://localhost:50983/");
+                _restClient = new RestClient("http://autothon-nagarro-backend-x05.azurewebsites.net");
                 var response = _restClient.Execute(_restRequest);
                 return response;
             }
@@ -85,7 +85,7 @@ namespace WhatsTheNameAPI.AcceptanceTests.Helpers
         
         public T Execute<T>()
         {
-            _restClient = new RestClient("http://localhost:50983/");
+            _restClient = new RestClient("http://autothon-nagarro-backend-x05.azurewebsites.net");
             var response = _restClient.Execute(_restRequest);
             var data = JsonConvert.DeserializeObject<T>(response.Content);
             return data;
