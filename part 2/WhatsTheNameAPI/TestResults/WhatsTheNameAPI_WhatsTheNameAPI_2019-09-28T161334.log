@@ -1,0 +1,117 @@
+﻿2019-09-28T16:13:34.4131090+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-28T16:13:34.4132361+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework netcore22 in x64 mode execution started
+2019-09-28T16:13:34.4132423+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-28T16:13:34.6458619+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.2\WhatsTheNameAPI.dll
+2019-09-28T16:13:34.6466931+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\TestResults" (default)
+2019-09-28T16:13:34.6468606+05:30;VSTestExecutionThread;Info;Profile: WhatsTheNameAPI
+2019-09-28T16:13:34.7023307+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\TestResults\WhatsTheNameAPI_WhatsTheNameAPI_2019-09-28T161334.log
+2019-09-28T16:13:34.7238101+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-28T16:13:34.7388490+05:30;Thread#12;Info;Checking license
+2019-09-28T16:13:34.7734542+05:30;Thread#12;Info;Evaluation mode: test execution starts in 14 seconds... (this delay is removed in the registered version)
+2019-09-28T16:13:48.7744091+05:30;Thread#12;Info;Evaluation delay finished.
+2019-09-28T16:13:48.7866857+05:30;Thread#12;Info;License check completed
+2019-09-28T16:13:48.7869750+05:30;Thread#12;Info;starting test run
+2019-09-28T16:13:48.8013558+05:30;Thread#12;Info;Discovering target: Default
+2019-09-28T16:13:48.8016472+05:30;Thread#12;Info;Discovering tests from assembly: C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.2\WhatsTheNameAPI.dll
+2019-09-28T16:13:48.9889631+05:30;Thread#12;Info;Discovered tests from assembly: C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.2\WhatsTheNameAPI.dll
+2019-09-28T16:13:48.9912209+05:30:Test Suite Dump
+2019-09-28T16:13:48.9941664+05:30:#0: WhatsTheNameAPI/WhatsTheNameAPI - 
+2019-09-28T16:13:48.9941957+05:30:#1: Default - 
+2019-09-28T16:13:48.9942007+05:30:#2: WhatsTheNameAPI - 
+2019-09-28T16:13:48.9942026+05:30:#3: Movie - 
+2019-09-28T16:13:48.9942617+05:30:#4: Add Movie, Rockstar - TestAssembly:WhatsTheNameAPI/Feature:Movie/Scenario:Add+Movie%2c+Rockstar
+2019-09-28T16:13:48.9943289+05:30:End: Test Suite Dump
+2019-09-28T16:13:49.0246932+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-09-28T16:13:49.0284868+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-09-28T16:13:49.0285940+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-09-28T16:13:49.0349704+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-28T16:13:49.0349914+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-09-28T16:13:49.0349938+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-09-28T16:13:49.0349982+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-09-28T16:13:49.0385499+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-09-28T16:13:49.0411079+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-28T16:13:49.0464347+05:30:Thread #0: creating new test thread executor for WhatsTheNameAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-09-28T16:13:49.0500767+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2019-09-28T16:13:49.0515129+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2019-09-28T16:13:49.0546447+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2019-09-28T16:13:49.0596101+05:30:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-09-28T16:13:49.0797237+05:30:starting Out Of Process Executor
+2019-09-28T16:13:49.2369202+05:30:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' '"C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.2\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll" 102568 2019-09-28T161334 "C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\TestResults"' in 'C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.2'
+2019-09-28T16:13:49.2458065+05:30:Entering Memory Barrier for 101968
+2019-09-28T16:13:49.2458227+05:30:Leaving Memory Barrier for 101968
+2019-09-28T16:13:49.2533196+05:30:Out of Process Executor 101968 started
+2019-09-28T16:13:49.2630162+05:30:Waiting for endpoint
+2019-09-28T16:13:49.2647790+05:30:trying to connect to Out of Process Executor the 1 attempt
+2019-09-28T16:13:49.5462597+05:30:waiting for Connection of SpecRun.Executor.101968.Logger ended
+2019-09-28T16:13:49.5493966+05:30:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-09-28T16:13:49.6114202+05:30:Connection to Out of Process Executor established in the 1 attempt
+2019-09-28T16:13:50.0951631+05:30:waiting for Connection of SpecRun.Executor.101968.Callback ended
+2019-09-28T16:13:50.3255852+05:30:2019-09-28T16:13:50.2049414+05:30:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.2\WhatsTheNameAPI.dll on test thread #0
+2019-09-28T16:13:50.3426919+05:30:Endpoint 101968 started
+2019-09-28T16:13:50.3732848+05:30:2019-09-28T16:13:50.3727328+05:30:OutOfProcessTestAssemblyExecutor: running tests...
+2019-09-28T16:13:50.5739578+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-09-28T16:13:50.5905814+05:30:2019-09-28T16:13:50.5902215+05:30:Thread#0:T:2019-09-28T16:13:50.5878959+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-09-28T16:13:50.8083190+05:30:2019-09-28T16:13:50.8079326+05:30:Thread#0:T:-> Loading plugin C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.2\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-09-28T16:13:50.8104330+05:30:2019-09-28T16:13:50.8101556+05:30:Thread#0:T:2019-09-28T16:13:50.8100612+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-09-28T16:13:50.8152491+05:30:2019-09-28T16:13:50.8149886+05:30:Thread#0:T:-> Using default config
+2019-09-28T16:13:50.8305330+05:30:2019-09-28T16:13:50.8302343+05:30:Thread#0:T:2019-09-28T16:13:50.8301257+05:30:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-09-28T16:13:50.8888107+05:30:2019-09-28T16:13:50.8884494+05:30:Thread#0:B:Given I logged in as (admin,password)
+2019-09-28T16:13:50.9205106+05:30:2019-09-28T16:13:50.9186419+05:30:Thread#0:T:2019-09-28T16:13:50.9185005+05:30:Assembly resolving RestSharp, Version=106.6.10.0, Culture=neutral, PublicKeyToken=598062e77f915f75
+2019-09-28T16:13:51.6973551+05:30:2019-09-28T16:13:51.6968627+05:30:Thread#0:T:done: MovieSteps.GivenILogedInAs("admin", "password") (0.8s)
+2019-09-28T16:13:51.6994489+05:30:2019-09-28T16:13:51.6991412+05:30:Thread#0:B:Then I add a movie  (Rockstar,Sampal Movie,image,Imtiaz Ali,4,ABC,XYZ)
+2019-09-28T16:13:51.7272797+05:30:2019-09-28T16:13:51.7268299+05:30:Thread#0:T:2019-09-28T16:13:51.7266800+05:30:Assembly resolving Gherkin, Version=6.0.0.0, Culture=neutral, PublicKeyToken=86496cfa5b4a5851
+2019-09-28T16:13:51.7321028+05:30:2019-09-28T16:13:51.7317636+05:30:Thread#0:T:2019-09-28T16:13:51.7316314+05:30:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2019-09-28T16:13:52.0185936+05:30:2019-09-28T16:13:52.0181952+05:30:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2019-09-28T16:13:52.0192968+05:30:2019-09-28T16:13:52.0189193+05:30:Thread#0:T:        [Then(@"I add a movie  \(Rockstar,Sampal Movie,image,Imtiaz Ali,(.*),ABC,XYZ\)")]
+2019-09-28T16:13:52.0197314+05:30:2019-09-28T16:13:52.0195466+05:30:Thread#0:T:        public void ThenIAddAMovieRockstarSampalMovieImageImtiazAliABCXYZ(int p0)
+2019-09-28T16:13:52.0201040+05:30:2019-09-28T16:13:52.0198670+05:30:Thread#0:T:        {
+2019-09-28T16:13:52.0204722+05:30:2019-09-28T16:13:52.0202807+05:30:Thread#0:T:            ScenarioContext.Current.Pending();
+2019-09-28T16:13:52.0208125+05:30:2019-09-28T16:13:52.0206229+05:30:Thread#0:T:        }
+2019-09-28T16:13:52.0778322+05:30:2019-09-28T16:13:52.0774936+05:30:Thread#0:T:Pending: No matching step definition found for one or more steps.
+2019-09-28T16:13:52.0782331+05:30:2019-09-28T16:13:52.0780293+05:30:Thread#0:T:using System;
+2019-09-28T16:13:52.0785651+05:30:2019-09-28T16:13:52.0783842+05:30:Thread#0:T:using TechTalk.SpecFlow;
+2019-09-28T16:13:52.0789147+05:30:2019-09-28T16:13:52.0787309+05:30:Thread#0:T:namespace MyNamespace
+2019-09-28T16:13:52.0793316+05:30:2019-09-28T16:13:52.0791322+05:30:Thread#0:T:{
+2019-09-28T16:13:52.0797742+05:30:2019-09-28T16:13:52.0795323+05:30:Thread#0:T:    [Binding]
+2019-09-28T16:13:52.0802153+05:30:2019-09-28T16:13:52.0800021+05:30:Thread#0:T:    public class StepDefinitions
+2019-09-28T16:13:52.0806585+05:30:2019-09-28T16:13:52.0804207+05:30:Thread#0:T:    {
+2019-09-28T16:13:52.0811063+05:30:2019-09-28T16:13:52.0808739+05:30:Thread#0:T:        [Then(@"I add a movie  \(Rockstar,Sampal Movie,image,Imtiaz Ali,(.*),ABC,XYZ\)")]
+2019-09-28T16:13:52.0815475+05:30:2019-09-28T16:13:52.0813002+05:30:Thread#0:T:        public void ThenIAddAMovieRockstarSampalMovieImageImtiazAliABCXYZ(int p0)
+2019-09-28T16:13:52.0819667+05:30:2019-09-28T16:13:52.0817438+05:30:Thread#0:T:        {
+2019-09-28T16:13:52.0824382+05:30:2019-09-28T16:13:52.0821823+05:30:Thread#0:T:            ScenarioContext.Current.Pending();
+2019-09-28T16:13:52.0828470+05:30:2019-09-28T16:13:52.0826316+05:30:Thread#0:T:        }
+2019-09-28T16:13:52.0832166+05:30:2019-09-28T16:13:52.0830292+05:30:Thread#0:T:    }
+2019-09-28T16:13:52.0836358+05:30:2019-09-28T16:13:52.0834286+05:30:Thread#0:T:}
+2019-09-28T16:13:52.0951026+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-09-28T16:13:52.0951371+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-09-28T16:13:52.0951393+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-09-28T16:13:52.0951418+05:30:Thread#0:Scheduler: No more tests for thread
+2019-09-28T16:13:52.1792639+05:30:Thread#0: Test #4/0 is finished on thread #0 as Pending within 1.603875 seconds
+2019-09-28T16:13:52.2001241+05:30:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2019-09-28T16:13:52.2617491+05:30:Unable to stop executor process: System.InvalidOperationException: No process is associated with this object.
+   at System.Diagnostics.Process.EnsureState(State state)
+   at System.Diagnostics.Process.get_HasExited()
+   at TechTalk.SpecRun.Framework.Execution.OutOfProc.OutProcExecutorManager.StopExecutorProcess(Process executorProcess)
+2019-09-28T16:13:52.2767057+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-09-28T16:13:52.2767286+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-09-28T16:13:52.2767322+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-09-28T16:13:52.2807533+05:30;Thread#12;Info;test run finished
+2019-09-28T16:13:52.2810422+05:30;Thread#12;Info;publishing test results
+2019-09-28T16:13:52.2813876+05:30;Thread#12;Info;Not publishing results.
+2019-09-28T16:13:52.2816655+05:30;Thread#12;Info;test results published
+2019-09-28T16:13:52.2818342+05:30;Thread#12;Info;generating reports
+2019-09-28T16:13:52.3973403+05:30;Thread#12;Info;Starting external report generation process
+2019-09-28T16:13:54.7506355+05:30;Thread#12;Info;Successfully generated reports.
+2019-09-28T16:13:54.7531285+05:30;Thread#12;Info;Successfully generated reports
+2019-09-28T16:13:54.7645296+05:30:Total: 1
+2019-09-28T16:13:54.7686136+05:30:Succeeded: 0
+2019-09-28T16:13:54.7694746+05:30:Ignored: 0
+2019-09-28T16:13:54.7701530+05:30:Pending: 1
+2019-09-28T16:13:54.7701596+05:30:Skipped: 0
+2019-09-28T16:13:54.7708092+05:30:Failed: 0
+2019-09-28T16:13:54.7879027+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-28T16:13:54.7880719+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\TestResults\WhatsTheNameAPI_WhatsTheNameAPI_2019-09-28T161334.html'
+========== End of log file ==========

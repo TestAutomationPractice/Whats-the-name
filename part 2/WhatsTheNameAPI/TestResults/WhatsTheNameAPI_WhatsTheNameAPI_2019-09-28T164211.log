@@ -1,0 +1,43 @@
+﻿2019-09-28T16:42:11.6570872+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-28T16:42:11.6572171+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework netcore21 in x64 mode execution started
+2019-09-28T16:42:11.6572230+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-28T16:42:11.9336081+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.0\WhatsTheNameAPI.dll
+2019-09-28T16:42:11.9350097+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\TestResults" (default)
+2019-09-28T16:42:11.9354901+05:30;VSTestExecutionThread;Info;Profile: WhatsTheNameAPI
+2019-09-28T16:42:11.9811321+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\TestResults\WhatsTheNameAPI_WhatsTheNameAPI_2019-09-28T164211.log
+2019-09-28T16:42:11.9983678+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-28T16:42:12.0167732+05:30;Thread#13;Info;Checking license
+2019-09-28T16:42:12.0577822+05:30;Thread#13;Info;Evaluation mode: test execution starts in 13 seconds... (this delay is removed in the registered version)
+2019-09-28T16:42:25.0586621+05:30;Thread#13;Info;Evaluation delay finished.
+2019-09-28T16:42:25.0719449+05:30;Thread#13;Info;License check completed
+2019-09-28T16:42:25.0721533+05:30;Thread#13;Info;starting test run
+2019-09-28T16:42:25.0857912+05:30;Thread#13;Info;Discovering target: Default
+2019-09-28T16:42:25.0859820+05:30;Thread#13;Info;Discovering tests from assembly: C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.0\WhatsTheNameAPI.dll
+2019-09-28T16:42:25.3630444+05:30;Thread#13;Info;Discovered tests from assembly: C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.0\WhatsTheNameAPI.dll
+2019-09-28T16:42:25.3654420+05:30:Test Suite Dump
+2019-09-28T16:42:25.3679496+05:30:#0: WhatsTheNameAPI/WhatsTheNameAPI - 
+2019-09-28T16:42:25.3680343+05:30:End: Test Suite Dump
+2019-09-28T16:42:25.3992557+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-09-28T16:42:25.4022320+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-09-28T16:42:25.4022526+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2019-09-28T16:42:25.4025658+05:30:Thread#0:Scheduler: No more tests for thread
+2019-09-28T16:42:25.4116790+05:30:Thread#-1:Scheduler: get next test for thread -1
+2019-09-28T16:42:25.4117116+05:30:Thread#:Scheduler: at the end of normal test queue
+2019-09-28T16:42:25.4117149+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2019-09-28T16:42:25.4135488+05:30;Thread#13;Info;test run finished
+2019-09-28T16:42:25.4137417+05:30;Thread#13;Info;publishing test results
+2019-09-28T16:42:25.4139631+05:30;Thread#13;Info;Not publishing results.
+2019-09-28T16:42:25.4141067+05:30;Thread#13;Info;test results published
+2019-09-28T16:42:25.4142241+05:30;Thread#13;Info;generating reports
+2019-09-28T16:42:25.5206372+05:30;Thread#13;Info;Starting external report generation process
+2019-09-28T16:42:27.4783170+05:30;Thread#13;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-09-28T16:42:27.4787082+05:30;Thread#13;Error;External program returned exit code '-2'
+2019-09-28T16:42:27.4788570+05:30;Thread#13;Info;Failed generating reports
+2019-09-28T16:42:27.4924802+05:30:Total: 0
+2019-09-28T16:42:27.4969020+05:30:Succeeded: 0
+2019-09-28T16:42:27.4976656+05:30:Ignored: 0
+2019-09-28T16:42:27.4983885+05:30:Pending: 0
+2019-09-28T16:42:27.4994801+05:30:Skipped: 0
+2019-09-28T16:42:27.5003159+05:30:Failed: 0
+2019-09-28T16:42:27.5120320+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

@@ -1,0 +1,61 @@
+﻿2019-09-28T16:46:39.5064000+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-28T16:46:39.5064777+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.391 in Framework netcore21 in x64 mode execution started
+2019-09-28T16:46:39.5064812+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-28T16:46:39.7760667+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.0\WhatsTheNameAPI.dll
+2019-09-28T16:46:39.7770319+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\TestResults" (default)
+2019-09-28T16:46:39.7772853+05:30;VSTestExecutionThread;Info;Profile: WhatsTheNameAPI
+2019-09-28T16:46:39.8180630+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\TestResults\WhatsTheNameAPI_WhatsTheNameAPI_2019-09-28T164639.log
+2019-09-28T16:46:39.8319595+05:30;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-28T16:46:39.8444112+05:30;Thread#12;Info;Checking license
+2019-09-28T16:46:39.8672253+05:30;Thread#12;Info;Evaluation mode: test execution starts in 6 seconds... (this delay is removed in the registered version)
+2019-09-28T16:46:45.8687521+05:30;Thread#12;Info;Evaluation delay finished.
+2019-09-28T16:46:45.8796222+05:30;Thread#12;Info;License check completed
+2019-09-28T16:46:45.8798897+05:30;Thread#12;Info;starting test run
+2019-09-28T16:46:45.8990619+05:30;Thread#12;Info;Discovering target: Default
+2019-09-28T16:46:45.8994642+05:30;Thread#12;Info;Discovering tests from assembly: C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.0\WhatsTheNameAPI.dll
+2019-09-28T16:46:46.1308957+05:30;Thread#12;Info;Discovered tests from assembly: C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.0\WhatsTheNameAPI.dll
+2019-09-28T16:46:46.1332896+05:30:Test Suite Dump
+2019-09-28T16:46:46.1366720+05:30:#0: WhatsTheNameAPI/WhatsTheNameAPI - 
+2019-09-28T16:46:46.1367104+05:30:#1: Default - 
+2019-09-28T16:46:46.1367142+05:30:#2: WhatsTheNameAPI - 
+2019-09-28T16:46:46.1367163+05:30:#3: Movie - 
+2019-09-28T16:46:46.1368219+05:30:#4: Add Movie, Rockstar - TestAssembly:WhatsTheNameAPI/Feature:Movie/Scenario:Add+Movie%2c+Rockstar
+2019-09-28T16:46:46.1369177+05:30:End: Test Suite Dump
+2019-09-28T16:46:46.1665999+05:30:Thread#0:Scheduler: get next test for thread 0
+2019-09-28T16:46:46.1698203+05:30:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-09-28T16:46:46.1699283+05:30:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-09-28T16:46:46.1765525+05:30:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-28T16:46:46.1765762+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-09-28T16:46:46.1765783+05:30:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-09-28T16:46:46.1765827+05:30:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-09-28T16:46:46.1784871+05:30:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-09-28T16:46:46.1796475+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-28T16:46:46.1843756+05:30:Thread #0: creating new test thread executor for WhatsTheNameAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-09-28T16:46:46.1880332+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2019-09-28T16:46:46.1890402+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2019-09-28T16:46:46.1916781+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2019-09-28T16:46:46.2118012+05:30:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-09-28T16:46:46.2484312+05:30:starting Out Of Process Executor
+2019-09-28T16:46:46.3826583+05:30:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' '"C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.0\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll" 143836 2019-09-28T164639 "C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\TestResults" debug' in 'C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.0'
+2019-09-28T16:46:46.3843285+05:30;Thread#12;Info;Starting SpecFlow+ Runner executor process with attached debugger...
+2019-09-28T16:46:46.4270907+05:30;Thread#12;Info;Successfully started SpecFlow+ Runner executor process
+2019-09-28T16:46:46.4274620+05:30:Entering Memory Barrier for 138024
+2019-09-28T16:46:46.4274654+05:30:Leaving Memory Barrier for 138024
+2019-09-28T16:46:46.4366890+05:30:Out of Process Executor 138024 started
+2019-09-28T16:46:46.5012437+05:30:Waiting for endpoint
+2019-09-28T16:46:46.5036766+05:30:trying to connect to Out of Process Executor the 1 attempt
+2019-09-28T16:46:47.1207894+05:30:waiting for Connection of SpecRun.Executor.138024.Logger ended
+2019-09-28T16:46:47.1251262+05:30:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-09-28T16:46:47.3298566+05:30:Connection to Out of Process Executor established in the 1 attempt
+2019-09-28T16:46:47.8122960+05:30:waiting for Connection of SpecRun.Executor.138024.Callback ended
+2019-09-28T16:46:48.1320740+05:30:2019-09-28T16:46:47.9639008+05:30:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.0\WhatsTheNameAPI.dll on test thread #0
+2019-09-28T16:46:48.1563146+05:30:Endpoint 138024 started
+2019-09-28T16:46:48.1947376+05:30:2019-09-28T16:46:48.1939117+05:30:OutOfProcessTestAssemblyExecutor: running tests...
+2019-09-28T16:46:48.3305498+05:30:Thread#0: Test #4/0 is started on thread #0
+2019-09-28T16:46:48.3515701+05:30:2019-09-28T16:46:48.3506629+05:30:Thread#0:T:2019-09-28T16:46:48.3484942+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-09-28T16:46:48.6093716+05:30:2019-09-28T16:46:48.6082147+05:30:Thread#0:T:-> Loading plugin C:\Users\manishgoyal02\source\repos\WhatsTheNameAPI\WhatsTheNameAPI\bin\Debug\netcoreapp2.0\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-09-28T16:46:48.6218085+05:30:2019-09-28T16:46:48.6206135+05:30:Thread#0:T:2019-09-28T16:46:48.6204165+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-09-28T16:46:48.6304934+05:30:2019-09-28T16:46:48.6292594+05:30:Thread#0:T:-> Using default config
+2019-09-28T16:46:48.6546634+05:30:2019-09-28T16:46:48.6538063+05:30:Thread#0:T:2019-09-28T16:46:48.6535891+05:30:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-09-28T16:46:48.7336508+05:30:2019-09-28T16:46:48.7324024+05:30:Thread#0:B:Given I logged in as admin password
+2019-09-28T16:46:48.7692459+05:30:2019-09-28T16:46:48.7670708+05:30:Thread#0:T:2019-09-28T16:46:48.7669093+05:30:Assembly resolving RestSharp, Version=106.6.10.0, Culture=neutral, PublicKeyToken=598062e77f915f75
